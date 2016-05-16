@@ -1,0 +1,62 @@
+/*@font-face {
+    font-family: "Dosis";
+    src: local("Dosis Regular"),
+    /!*url("font/Dosis-ExtraLight.ttf") format("truetype"),*!/
+    url("font/Dosis-Light.ttf")     format("truetype"),
+   url("font/Dosis-Light.otf")     format("otf");
+    font-weight: normal; font-style: normal; }
+
+
+body { font-family: "Dosis Regular"; }
+h1 { font-weight: bold; font-family: "Dosis"; }*/
+
+/*@font-face {
+    font-family: 'Ruluko', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    src: local('Open Sans Light'), local('OpenSans-Light'), url(font/opensans-light.woff) format('woff');
+}
+@font-face {
+    font-family: 'Ruluko', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    src: local('Open Sans'), local('OpenSans'), url(font/opensans.woff) format('woff');
+}
+@font-face {
+    font-family: 'Ruluko', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    src: local('Open Sans Semibold'), local('OpenSans-Semibold'), url(font/opensans-semibold.woff) format('woff');
+}*/
+
+
+/*@font-face {
+    font-family: 'Ruluko', sans-serif;
+    src: local("Ruluko Regular"),
+    url("font/Ruluko-Regular.ttf") format("ttf"),
+    url("font/OFL.txt") format("txt");
+     }*/
+
+@import url(https://fonts.googleapis.com/css?family=Ruluko);
+
+/* latin-ext */
+/*@font-face {
+    font-family: 'Ruluko';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Ruluko'), url("font/gE82xXMO2VKBgmTNJLklkfesZW2xOQ-xsNqO47m55DA.woff2") format('woff2');
+    unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}*/
+/* latin */
+/*@font-face {
+    font-family: 'Ruluko';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Ruluko'), url("font/mvgA0kyro8SUHoq672TI3Q.woff2") format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}*/
+
+
+
+
+
